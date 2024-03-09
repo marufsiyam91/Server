@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Beauty of Istanbul Turkey",
+    "country": "TURKEY",
+    "region": "ASIA",
+    "price": "$199",
+    "stayingtime": "6 Night / 7 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-1.jpg",
+    "discount": "30%",
+    "rating": 4.8
+  },
+  {
+    "title": "Wildness of California",
+    "country": "USA",
+    "region": "AMERICA",
+    "price": "$250",
+    "stayingtime": "4 Nights / 5 Days",
+    "image": "https://www.planetware.com/wpimages/2022/05/california-top-attractions-griffith-observatory-sunset.jpg",
+    "discount": "30%",
+    "rating": 5
+  },
+  {
+    "title": "Ocean on the Maldives",
+    "country": "MALDIVES",
+    "region": "ASIA",
+    "price": "$150",
+    "stayingtime": "5 Nights / 6 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-3.jpg",
+    "discount": "20%",
+    "rating": 4.0
+  },
+  {
+    "title": "Pyramid Of Khafre",
+    "country": "EGYPT",
+    "region": "AFRICA",
+    "price": "$280",
+    "stayingtime": "5 Nights / 4 Days",
+    "image": "https://media1.thrillophilia.com/filestore/j2mfd8efz0iqitiu8ckgx8h0xurj_1613996202_shutterstock_654844426.jpg?w=753&h=450&dpr=1.0",
+    "discount": "20%",
+    "rating": 5
+  },
+  {
+    "title": "History of The Emporer",
+    "country": "ITALY",
+    "region": "EUROPE",
+    "price": "$199",
+    "stayingtime": "6 Nights / 7 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-5.jpg",
+    "discount": "5%",
+    "rating": 5
+  },
+  {
+    "title": "The old Empire of China",
+    "country": "CHINA",
+    "region": "ASIA",
+    "price": "$189",
+    "stayingtime": "3 Nights / 4 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-6.jpg",
+    "discount": "20%",
+    "rating": 4.2
+  },
+  {
+    "title": "History of the Mughals",
+    "country": "INDIA",
+    "region": "ASIA",
+    "price": "$119",
+    "stayingtime": "2 Nights / 3 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-7.jpg",
+    "discount": "25%",
+    "rating": 4.1
+  },
+  {
+    "title": "The New York City Tour",
+    "country": "USA",
+    "region": "AMERICA",
+    "price": "$239",
+    "stayingtime": "5 Nights / 6 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-8.jpg",
+    "discount": "24%",
+    "rating": 4.8
+  },
+  {
+    "title": "Beauty of Istanbul Turkey",
+    "country": "JAPAN",
+    "region": "ASIA",
+    "price": "$139",
+    "stayingtime": "6 Nights / 7 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-12.jpg",
+    "discount": "20%",
+    "rating": 5
+  },
+  {
+    "title": "Victoria Falls",
+    "country": "AFRICA",
+    "region": "AFRICA",
+    "price": "$259",
+    "stayingtime": "4 Nights / 5 Days",
+    "image": "https://travel.usnews.com/dims4/USNEWS/6711694/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2Fvictoria_falls_cropped_445x280_urQE1cw.jpg",
+    "discount": "10%",
+    "rating": 4.5
+  },
+  {
+    "title": "History of The Emporer",
+    "country": "ITALY",
+    "region": "EUROPE",
+    "price": "$199",
+    "stayingtime": "6 Nights / 7 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-14.jpg",
+    "discount": "30%",
+    "rating": 5
+  },
+  {
+    "title": "The old Empire of China",
+    "country": "CHINA",
+    "region": "ASIA",
+    "price": "$189",
+    "stayingtime": "3 Nights / 4 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-15.jpg",
+    "discount": "30%",
+    "rating": 4.2
+  },
+  {
+    "title": "The New York City Tour",
+    "country": "USA",
+    "region": "AMERICA",
+    "price": "$239",
+    "stayingtime": "5 Nights / 6 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-17.jpg",
+    "discount": "20%",
+    "rating": 4.8
+  },
+  {
+    "title": "Beauty of Istanbul Turkey",
+    "country": "JAPAN",
+    "region": "ASIA",
+    "price": "$139",
+    "stayingtime": "6 Nights / 7 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-18.jpg",
+    "discount": "20%",
+    "rating": 4.8
+  },
+  {
+    "title": "Saint Basil’s Cathedral",
+    "country": "RUSSIA",
+    "region": "EUROPE",
+    "price": "$150",
+    "stayingtime": "5 Nights / 6 Days",
+    "image": "https://www.touropia.com/gfx/b/2012/07/saint_basils_cathedral.jpg",
+    "discount": "10%",
+    "rating": 4
+  },
+  {
+    "title": "Lugano (Switzerland)",
+    "country": "SWITZERLAND",
+    "region": "EUROPE",
+    "price": "$270",
+    "stayingtime": "4 Nights / 5 Days",
+    "image": "https://viatravelers.com/wp-content/uploads/2022/03/Lugano-Switzerland.jpg.webp",
+    "discount": "25%",
+    "rating": 4.2
+  },
+  {
+    "title": "The Hills and Mountains",
+    "country": "AFRICA",
+    "region": "AFRICA",
+    "price": "$299",
+    "stayingtime": "6 Nights / 7 Days",
+    "image": "https://azim.hostlin.com/Travic/assets/images/resource/tour-4.jpg",
+    "discount": "30%",
+    "rating": 4.5
+  },
+  {
+    "title": "Casablanca – Modernity",
+    "country": "MOROCCO",
+    "region": "AFRICA",
+    "price": "$320",
+    "stayingtime": "5 Nights / 6 Days",
+    "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/05/Casablanca.jpg",
+    "discount": "30%",
+    "rating": 4.8
+  }
+]
